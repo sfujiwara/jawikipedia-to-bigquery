@@ -1,0 +1,8 @@
+[
+  {"name": "cl_from", "type": "INTEGER"},
+  {"name": "cl_to", "type": "STRING"},
+  {"name": "cl_timestamp", "type": "STRING"},
+  {"name": "cl_sortkey_prefix", "type": "STRING"},
+  {"name": "cl_collation", "type": "STRING"},
+  {"name": "cl_type", "type": "STRING"}
+]

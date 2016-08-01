@@ -1,0 +1,4 @@
+[
+  {"name": "ug_user", "type": "INTEGER"},
+  {"name": "ug_group", "type": "STRING"}
+]

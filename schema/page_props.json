@@ -1,0 +1,6 @@
+[
+  {"name": "pp_page", "type": "INTEGER"},
+  {"name": "pp_propname", "type": "STRING"},
+  {"name": "pp_value", "type": "STRING"},
+  {"name": "pp_sortkey", "type": "FLOAT"}
+]

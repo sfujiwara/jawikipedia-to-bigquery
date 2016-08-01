@@ -1,0 +1,5 @@
+[
+  {"name": "ll_from", "type": "INTEGER"},
+  {"name": "ll_lang", "type": "STRING"},
+  {"name": "ll_title", "type": "STRING"}
+]

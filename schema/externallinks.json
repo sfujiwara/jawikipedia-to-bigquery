@@ -1,0 +1,7 @@
+[
+  {"name": "el_id", "type": "INTEGER"},
+  {"name": "el_from", "type": "INTEGER"},
+  {"name": "el_from_namespace", "type": "INTEGER"},
+  {"name": "el_to", "type": "STRING"},
+  {"name": "el_index", "type": "STRING"}
+]

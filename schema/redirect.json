@@ -1,0 +1,7 @@
+[
+  {"name": "rd_from", "type": "INTEGER"},
+  {"name": "rd_namespace", "type": "INTEGER"},
+  {"name": "rd_title", "type": "STRING"},
+  {"name": "rd_interwiki", "type": "STRING"},
+  {"name": "rd_fragment", "type": "STRING"}
+]

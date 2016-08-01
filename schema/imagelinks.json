@@ -1,0 +1,5 @@
+[
+  {"name": "il_from", "type": "INTEGER"},
+  {"name": "il_to", "type": "STRING"},
+  {"name": "il_from_namespace", "type": "INTEGER"}
+]

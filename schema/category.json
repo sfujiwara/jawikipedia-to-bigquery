@@ -1,0 +1,7 @@
+[
+  {"name": "cat_id", "type": "INTEGER"},
+  {"name": "cat_title", "type": "STRING"},
+  {"name": "cat_pages", "type": "INTEGER"},
+  {"name": "cat_subcats", "type": "INTEGER"},
+  {"name": "cat_files", "type": "INTEGER"}
+]

@@ -1,0 +1,15 @@
+[
+  {"name": "page_id", "type": "INTEGER"},
+  {"name": "page_namespace", "type": "INTEGER"},
+  {"name": "page_title", "type": "STRING"},
+  {"name": "page_restrictions", "type": "STRING"},
+  {"name": "page_counter", "type": "INTEGER"},
+  {"name": "page_is_redirect", "type": "INTEGER"},
+  {"name": "page_is_new", "type": "INTEGER"},
+  {"name": "page_random", "type": "FLOAT"},
+  {"name": "page_touched", "type": "STRING"},
+  {"name": "page_links_updated", "type": "STRING"},
+  {"name": "page_latest", "type": "INTEGER"},
+  {"name": "page_len", "type": "INTEGER"},
+  {"name": "page_content_model", "type": "STRING"}
+]

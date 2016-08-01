@@ -1,0 +1,10 @@
+[
+  {"name": "ss_row_id", "type": "INTEGER"},
+  {"name": "ss_total_views", "type": "INTEGER"},
+  {"name": "ss_total_edits", "type": "INTEGER"},
+  {"name": "ss_good_articles", "type": "INTEGER"},
+  {"name": "ss_total_pages", "type": "INTEGER"},
+  {"name": "ss_users", "type": "INTEGER"},
+  {"name": "ss_images", "type": "INTEGER"},
+  {"name": "ss_active_users", "type": "INTEGER"}
+]
