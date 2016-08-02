@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-BUCKET_NAME="jawikipedia"
+PROJECT_ID=`gcloud config list project | tr '\n' ' ' | cut -d' ' -f4`
+BUCKET_NAME="${PROJECT_ID}.appspot.com"
 
 apt-get update
 apt-get -y upgrade
